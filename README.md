@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Dhruv S Shah
 **A passionate Frontend Engineer || Backend Engineer **
 
-Email Me 👉 ✉️ **iamsdyadav@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **dhruvshah124204@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently studing in:** Dy Patil RAIT - Navi mumbai
 - 🌱 **I’m currently learning:** Cloud Engineering
