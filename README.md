@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Dhruv S Shah
+# Hi 👋, I'm Dhruv S Shah
 **A passionate Data Analyst**
 
 Email Me 👉 ✉️ **dhruvshah124204@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -7,16 +7,6 @@ Email Me 👉 ✉️ **dhruvshah124204@gmail.com** For Collaboration/Project or 
 - 🌱 **I’m currently learning:** Data Analysis
 - 📫 **How to reach me:** dhruvshah124204@gmail.com
 
- <tr>
-    <td colspan="2" align="center">
-      <details open><summary>Full year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-      <details><summary>Half year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
-      <img width="900" height="1" alt="">
-    </td>
-  </tr>
-
-
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sudhanshu_yadav0104) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhanshu-yadav-015167290)
 
 # 💻 Tech Stack:
